@@ -34,7 +34,7 @@ This table highlights individuals and their respective contributions to various 
 | ---------- | ------------------------------------------------------- | ------------------------------------------------------------------------ |
 | 1          | [Sana Akbar](https://github.com/Saniikhan)              | [Hostel Management Application](./Java/Hostel/)                          |
 | 2          | [Muhammad Umair](https://github.com/Umair786786)        | [Education App](./Java/Education%20App/)                                 |
-| 3          | [Usman Saeed](https://github.com/Usmanwp-expert)        | [PDF Converter](./Java/PDF%20Converter/)                                 |
+| 3          | [M. Usman Saeed](https://github.com/Usmanwp-expert)     | [PDF Converter](./Java/PDF%20Converter/)                                 |
 | 4          | [Talha Bin Jameel](https://github.com/talhabinjameel)   | [Earning Quiz App](./Java/Earning%20quiz%20app/)                         |
 | 5          | [Muhammad Hasnain](https://github.com/Hasnain3815)      | [Tareen Sports Academy](./Java/TareenSportsAcademy/#)                    |
 | 6          | [Mubashir Hameed](https://github.com/mubashirhameed123) | [Recipe App](./Java/RecipeApp/)                                          |
